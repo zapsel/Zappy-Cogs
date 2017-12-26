@@ -1,0 +1,8 @@
+{
+	"NAME" : "Chat",
+	"AUTHOR" : "Zapsel",
+	"SHORT" : "A simple chatbot",
+	"DESCRIPTION" : "A variation of 26's cleverbot but uses cleverbot.io since the former went pay to play",
+	"TAGS" : ["cleverbot", "chat", "ai"],
+	"HIDDEN" : false
+}
