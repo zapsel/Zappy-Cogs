@@ -8,5 +8,5 @@ Mostly edited or re-tooled versions of random popular cogs (still in progress)
 
 After updating Red-DiscordBot add the repository
 ```
-[p]cog repo add booru-cogs https://github.com/zapsel/Zappy-Cogs
+[p]cog repo add zappy-cogs https://github.com/zapsel/Zappy-Cogs
 ```
